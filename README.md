@@ -2,5 +2,10 @@
 Programación para la creación musical
 ## recursos
 ## libros
-## lemnguajes de programación
+## lenguajes de programación
 ### musicales
+### visuales
+### generales
+JavaScript  
+Python  
+C++  
