@@ -1,26 +1,29 @@
 # taller-ucr
-Programación para la creación musical. Una plática para la calse de composición de la universidad de Costa Rica. 11 de octubre 2022.
+Programación para la creación musical. Una plática para la clase composición con nuevas tecnologías de la Escuela de Artes Musicales de la Universidad de Costa Rica. 11 de octubre 2022.
 
-## recursos
+## Recursos
 
-## libros
+## Bibliografía
+SuperCollider Book  
+Hydra Book  
+Aesthetic Programming  
 
-## lenguajes de programación
+## Lenguajes de programación
 
-### musicales
+### Musicales
 SuperCollider  
 PureData  
 TidalCycles  
 SonicPi  
 FoxDot  
-### visuales
+### Visuales
 Hydra  
 p5.js  
-### colectivos
+### Colectivos
 Estuary  
 Troop  
 Flock  
-### generales
+### Generales
 JavaScript  
 Python  
 C++  
