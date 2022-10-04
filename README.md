@@ -1,5 +1,6 @@
 # taller-ucr
-Programación para la creación musical. Una plática para la clase composición con nuevas tecnologías de la Escuela de Artes Musicales de la Universidad de Costa Rica. 11 de octubre 2022.
+Programación para la creación musical. Una plática para la clase Composición con Nuevas Tecnologías de la Escuela de Artes Musicales de la Universidad de Costa Rica. 11 de octubre 2022.  
+Por Hernani Villaseñor.
 
 ## Recursos
 
