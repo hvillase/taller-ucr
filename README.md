@@ -23,8 +23,8 @@ Hydra por Olivia Jack
 p5.js por Lauren Lee McCarthy  
 ### Colectivos
 Estuary por David Ogborn  
-Troop  
-Flock  
+Troop Ryan Kirkbride  
+[Flok](https://flok.clic.cf/) por Damián Silvani (munshkr)   
 ### Generales
 JavaScript  
 Python  
