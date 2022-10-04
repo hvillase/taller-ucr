@@ -13,11 +13,11 @@ SuperCollider Book
 ## Lenguajes de programación
 
 ### Musicales
-SuperCollider  
-PureData  
-TidalCycles  
-SonicPi  
-FoxDot  
+SuperCollider originalmente por James McCartney. Actualmente por la comunidad de desarrollo.  
+PureData por Miller Puckette (versión vanilla) y la comunidad de desarrollo.
+TidalCycles por Alex Mclean y la comunidad de desarrollo.  
+SonicPi por Sam Aaron.  
+FoxDot por Ryan Kirkbride. 
 ### Visuales
 Hydra  
 p5.js  
