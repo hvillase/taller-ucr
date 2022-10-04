@@ -14,7 +14,12 @@ TidalCycles
 SonicPi  
 FoxDot  
 ### visuales
-
+Hydra  
+p5.js  
+### colectivos
+Estuary  
+Troop  
+Flock  
 ### generales
 JavaScript  
 Python  
