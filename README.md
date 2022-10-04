@@ -8,7 +8,7 @@ Por Hernani Villaseñor.
 ## Bibliografía
 SuperCollider Book  
 [Hydra Book](https://hydra-book.glitch.me/#/) por Nato Hieda  
-Aesthetic Programming  
+[Aesthetic Programming](https://aesthetic-programming.net/) por Winnie Soon y Geoff Cox  
 
 ## Lenguajes de programación
 
