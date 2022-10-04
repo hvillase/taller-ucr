@@ -1,3 +1,4 @@
+
 # taller-ucr
 Programación para la creación musical. Una plática para la clase Composición con Nuevas Tecnologías de la Escuela de Artes Musicales de la Universidad de Costa Rica. 11 de octubre 2022.  
 Por Hernani Villaseñor.
@@ -6,7 +7,7 @@ Por Hernani Villaseñor.
 
 ## Bibliografía
 SuperCollider Book  
-Hydra Book  
+[Hydra Book](https://hydra-book.glitch.me/#/) por Nato Hieda  
 Aesthetic Programming  
 
 ## Lenguajes de programación
