@@ -22,14 +22,21 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 [Tidal Cycles](https://tidalcycles.org/) por Alex Mclean y la comunidad de desarrollo.  
 [Sonic Pi](https://sonic-pi.net/) por Sam Aaron.  
 [FoxDot](https://foxdot.org/) por Ryan Kirkbride. 
+
 ### Visuales
 Hydra por Olivia Jack  
 p5.js por Lauren Lee McCarthy  
+
 ### Colectivos
-Estuary por David Ogborn  
-Troop Ryan Kirkbride  
-[Flok](https://flok.clic.cf/) por Damián Silvani (munshkr)   
+[Estuary](https://estuary.mcmaster.ca/) por David Ogborn.  
+[Troop](https://github.com/Qirky/Troop) por Ryan Kirkbride.  
+[Flok](https://flok.clic.cf/) por Damián Silvani (munshkr).   
+
 ### Generales
-JavaScript  
-Python  
-C++  
+[JavaScript]()  
+[Python]()  
+[C++]()  
+
+## Cursos y tutoriales
+Coursera UNAM
+ENM Perú (Pure Data)
