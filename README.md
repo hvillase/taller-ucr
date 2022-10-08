@@ -5,7 +5,7 @@ Por Hernani Villaseñor.
 Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional, las clases SonoTexto y SampleTexto para realizar los ejemplos.
 
 ## Presentación
-1.  
+1. De la creación musical a la programación.  
 2.  
 3.  
 
