@@ -24,8 +24,8 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 [FoxDot](https://foxdot.org/) por Ryan Kirkbride. 
 
 ### Visuales
-Hydra por Olivia Jack  
-p5.js por Lauren Lee McCarthy  
+[Hydra](https://hydra.ojack.xyz/) por Olivia Jack.  
+[p5.js](https://p5js.org/es/) por Lauren Lee McCarthy.  
 
 ### Colectivos
 [Estuary](https://estuary.mcmaster.ca/) por David Ogborn.  
