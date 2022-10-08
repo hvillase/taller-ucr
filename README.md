@@ -1,12 +1,11 @@
 
 # taller-ucr
 Programación para la creación musical. Una plática para la clase Composición con Nuevas Tecnologías de la Escuela de Artes Musicales de la Universidad de Costa Rica. 11 de octubre 2022.  
-Por Hernani Villaseñor.
-
-## Recursos
+Por Hernani Villaseñor.  
+Instalar [SuperCollider](https://supercollider.github.io/) y las clases SonoTexto y SampleTexto para realizzar los ejemplos.
 
 ## Bibliografía
-SuperCollider Book  
+[SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) (2011) editado por Scott Wilson, David Cottle y Nick Collins.  
 [Hydra Book](https://hydra-book.glitch.me/#/) por Nato Hieda  
 [Aesthetic Programming](https://aesthetic-programming.net/) por Winnie Soon y Geoff Cox  
 
