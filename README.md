@@ -4,10 +4,15 @@ Programación para la creación musical. Una plática para la clase Composición
 Por Hernani Villaseñor.  
 Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional, las clases SonoTexto y SampleTexto para realizar los ejemplos.
 
+## Presentación
+1.  
+2.  
+3.  
+
 ## Bibliografía
 [SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) (2011) editado por Scott Wilson, David Cottle y Nick Collins.  
 [Hydra Book](https://hydra-book.glitch.me/#/) por Nato Hieda  
-[Aesthetic Programming](https://aesthetic-programming.net/) (2021) por Winnie Soon y Geoff Cox  
+[Aesthetic Programming](https://aesthetic-programming.net/) (2021) por Winnie Soon y Geoff Cox.  
 
 ## Lenguajes de programación
 
