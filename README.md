@@ -19,8 +19,8 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 12. Discusión: 
 
 ## Referencias
-Wade Matthews. La libre improvisación.  
-Carolina Di Próspero. Arte computacional en proceso.  
+Wade Matthews. 2012. Improvisando: La libre creación musical. Turner Música.    
+Carolina Di Próspero 2015. Arte computacional en proceso.  
 Ursula Franklin. 1990. The real world of technology.  
 Beatriz Ferreyra.  Curso YT
 Henkk Borgdorff.  The faculties
@@ -51,7 +51,7 @@ Aarón Castañeda y Hernani Villaseñor. 2022. Agencialidad del código y del al
 
 ### Generales
 [JavaScript](https://www.w3schools.com/js/default.asp) por Brendan Eich.  
-[Python](https://www.python.org/) por Gudo van Rossum.  
+[Python](https://www.python.org/) por Guido van Rossum.  
 [C++](https://isocpp.org/) por Bjarne Stroustrup.  
 
 ## Cursos y tutoriales
