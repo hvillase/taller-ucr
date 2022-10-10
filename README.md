@@ -16,15 +16,15 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 9. La clase de supercollider.  
 10. La estructura imaginada.
 11. El caso de SonoTexto.  
-12. 
+12. Discusión: 
 
 ## Referencias
-Wade Matthews.  
-Carolina Di Próspero.  
-Ursula Franklin.  
-Beatriz Ferreyra.
-Henkk Borgdorff.
-Aarón Castañeda y Hernani Villaseñor. 2022.     
+Wade Matthews. La libre improvisación.  
+Carolina Di Próspero. Arte computacional en proceso.  
+Ursula Franklin. 1990. The real world of technology.  
+Beatriz Ferreyra.  Curso YT
+Henkk Borgdorff.  The faculties
+Aarón Castañeda y Hernani Villaseñor. 2022. Agencialidad del código y del algortimno:      
 
 ## Bibliografía
 [SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) (2011) editado por Scott Wilson, David Cottle y Nick Collins.  
@@ -55,5 +55,5 @@ Aarón Castañeda y Hernani Villaseñor. 2022.
 [C++]()  
 
 ## Cursos y tutoriales
-Coursera UNAM PPrograma de producción musical con software libre  
-ENM Perú (Pure Data)  
+Coursera UNAM [Programa de producción musical con software libre]()  
+[Laboratorio de música electroacústica](https://www.youtube.com/channel/UCHJ6NHp-wBhZFiY2cpJGDJg) de la UNM Perú: cápsulas de Pure Data.  
