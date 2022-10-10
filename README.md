@@ -6,8 +6,25 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 
 ## Presentación
 1. De la creación musical a la programación.  
-2.  
-3.  
+2. Creación musical con lenguajes de programación.   
+3. Creación musical: composición e improvisación.
+4. Programación exploratoria y programación prescriptiva.  
+5. Investigación artística: Creación artística + investigación académica.  
+6. ¿Saber programar y saber música?
+7. Abstracción alta: cercana al entendimiento humano, abstracción baja cercana al entendimiento de maquina.  
+8. Capas de abstracción en SuperCollider sclang, clases, plug-ins, lenguaje.
+9. La clase de supercollider.  
+10. La estructura imaginada.
+11. El caso de SonoTexto.  
+12. 
+
+## Referencias
+Wade Matthews.  
+Carolina Di Próspero.  
+Ursula Franklin.  
+Beatriz Ferreyra.
+Henkk Borgdorff.
+Aarón Castañeda y Hernani Villaseñor. 2022.     
 
 ## Bibliografía
 [SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) (2011) editado por Scott Wilson, David Cottle y Nick Collins.  
@@ -34,9 +51,9 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 
 ### Generales
 [JavaScript]()  
-[Python]()  
+[Python](https://www.python.org/)  
 [C++]()  
 
 ## Cursos y tutoriales
-Coursera UNAM
-ENM Perú (Pure Data)
+Coursera UNAM PPrograma de producción musical con software libre  
+ENM Perú (Pure Data)  
