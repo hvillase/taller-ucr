@@ -50,9 +50,9 @@ Aarón Castañeda y Hernani Villaseñor. 2022. Agencialidad del código y del al
 [Flok](https://flok.clic.cf/) por Damián Silvani (munshkr).   
 
 ### Generales
-[JavaScript]()  
-[Python](https://www.python.org/)  
-[C++]()  
+[JavaScript](https://www.w3schools.com/js/default.asp) por Brendan Eich.  
+[Python](https://www.python.org/) por Gudo van Rossum.  
+[C++](https://isocpp.org/) por Bjarne Stroustrup.  
 
 ## Cursos y tutoriales
 Coursera UNAM [Programa especializado: Tecnología musical con software libre](https://www.coursera.org/specializations/tecnologia-musical).  
