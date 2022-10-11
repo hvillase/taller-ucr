@@ -22,7 +22,7 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 Wade Matthews. 2012. Improvisando: La libre creación musical. Turner Música.    
 Carolina Di Próspero 2015. Livve Coding: Arte computacional en proceso. Contenido. Arte, Cultura y Ciencias Sociales, 5(2015), 44-62.  
 Ursula Franklin. 1990. The real world of technology. Toronto: CBC enterprises.  
-Beatriz Ferreyra. Identification of sound characteristics](https://youtu.be/dWEDcq56D_Q).  
+Beatriz Ferreyra. [Identification of sound characteristics](https://youtu.be/dWEDcq56D_Q).  
 Henk Borgdorff.  2012. The conflict of the faculties: Perspectives on Artistic Research and Academia.  
 Aarón Castañeda y Hernani Villaseñor. 2022. [Agencialidad del código y del algoritmo: trazos sobre el ciclo práctica artísitca, desarrollo tecnológico e investigación.](https://www.repositorio.fam.unam.mx/handle/123456789/139). 
 
