@@ -57,3 +57,4 @@ Aarón Castañeda y Hernani Villaseñor. 2022. [Agencialidad del código y del a
 ## Cursos y tutoriales
 Coursera UNAM [Programa especializado: Tecnología musical con software libre](https://www.coursera.org/specializations/tecnologia-musical).  
 [Laboratorio de música electroacústica](https://www.youtube.com/channel/UCHJ6NHp-wBhZFiY2cpJGDJg) de la UNM Perú: cápsulas de Pure Data.  
+[Tacacocodin'](https://tacacocodin.com/) colectivo de liove coding @Centro América (Costa Rica).
