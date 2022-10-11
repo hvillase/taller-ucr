@@ -20,11 +20,11 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 
 ## Referencias
 Wade Matthews. 2012. Improvisando: La libre creación musical. Turner Música.    
-Carolina Di Próspero 2015. Arte computacional en proceso.  
-Ursula Franklin. 1990. The real world of technology.  
-Beatriz Ferreyra.  Curso YT
+Carolina Di Próspero 2015. Livve Coding: Arte computacional en proceso. Contenido. Arte, Cultura y Ciencias Sociales, 5(2015), 44-62.  
+Ursula Franklin. 1990. The real world of technology. Toronto: CBC enterprises.  
+Beatriz Ferreyra. Identification of sound characteristics](https://youtu.be/dWEDcq56D_Q).  
 Henk Borgdorff.  2012. The conflict of the faculties: Perspectives on Artistic Research and Academia.  
-Aarón Castañeda y Hernani Villaseñor. 2022. [Agencialidad del código y del algoritmo: investigación artíastica](). 
+Aarón Castañeda y Hernani Villaseñor. 2022. [Agencialidad del código y del algoritmo: trazos sobre el ciclo práctica artísitca, desarrollo tecnológico e investigación.](https://www.repositorio.fam.unam.mx/handle/123456789/139). 
 
 ## Bibliografía
 [SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) (2011) editado por Scott Wilson, David Cottle y Nick Collins.  
