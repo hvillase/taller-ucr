@@ -24,7 +24,7 @@ Carolina Di Próspero 2015. Livve Coding: Arte computacional en proceso. Conteni
 Ursula Franklin. 1990. The real world of technology. Toronto: CBC enterprises.  
 Beatriz Ferreyra. [Identification of sound characteristics](https://youtu.be/dWEDcq56D_Q).  
 Henk Borgdorff.  2012. The conflict of the faculties: Perspectives on Artistic Research and Academia.  
-Aarón Castañeda y Hernani Villaseñor. 2022. [Agencialidad del código y del algoritmo: trazos sobre el ciclo práctica artísitca, desarrollo tecnológico e investigación.](https://www.repositorio.fam.unam.mx/handle/123456789/139). 
+Aarón Castañeda y Hernani Villaseñor. 2022. [Agencialidad del código y del algoritmo: trazos sobre el ciclo práctica artísitca, desarrollo tecnológico e investigación](https://www.repositorio.fam.unam.mx/handle/123456789/139). 
 
 ## Bibliografía
 [SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) (2011) editado por Scott Wilson, David Cottle y Nick Collins.  
