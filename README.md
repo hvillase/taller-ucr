@@ -16,15 +16,15 @@ Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional
 9. La clase de supercollider.  
 10. La estructura imaginada.
 11. El caso de SonoTexto.  
-12. Discusión: 
+12. Discusión: escoger lenguajes de programación, desarrollar herramientas, explorar y formalizar, colaborar e intercambiar, estandarizar y diversificar, encontrar mi expresión, estar atentos a desigualdades.
 
 ## Referencias
 Wade Matthews. 2012. Improvisando: La libre creación musical. Turner Música.    
 Carolina Di Próspero 2015. Arte computacional en proceso.  
 Ursula Franklin. 1990. The real world of technology.  
 Beatriz Ferreyra.  Curso YT
-Henkk Borgdorff.  The faculties
-Aarón Castañeda y Hernani Villaseñor. 2022. Agencialidad del código y del algortimno:      
+Henk Borgdorff.  2012. The conflict of the faculties: Perspectives on Artistic Research and Academia.  
+Aarón Castañeda y Hernani Villaseñor. 2022. [Agencialidad del código y del algoritmo: investigación artíastica](). 
 
 ## Bibliografía
 [SuperCollider Book](https://mitpress.mit.edu/9780262232692/the-supercollider-book/) (2011) editado por Scott Wilson, David Cottle y Nick Collins.  
