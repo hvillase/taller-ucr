@@ -2,7 +2,7 @@
 # taller-ucr
 Programación para la creación musical. Una plática para la clase Composición con Nuevas Tecnologías de la Escuela de Artes Musicales de la Universidad de Costa Rica. 11 de octubre 2022.  
 Por Hernani Villaseñor.  
-Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional, las clases SonoTexto y SampleTexto para realizar los ejemplos.
+Instalar [SuperCollider](https://supercollider.github.io/) y, de manera opcional, las clases [SonoTexto](https://github.com/hvillase/sonotexto), [SampleTexto](https://github.com/hvillase/sampletexto) y [Ptexto](https://github.com/hvillase/ptexto) para realizar los ejemplos.
 
 ## Presentación
 1. De la creación musical a la programación.  
